@@ -1,0 +1,865 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|c:\\tmp\\dev420\\merged final project\\hospitalserverhub\\hospitalserverhub\\hospitalmanagementysite\\patientinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientadmissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientadmissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientadmissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientadmissionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\chatsystemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\chatsystemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\dataanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\dataanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientermonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientermonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientermonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientermonitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientwithvital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientwithvital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\dataanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\dataanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\vitalsignsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\vitalsignsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\vitalsignsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\vitalsignsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\prescriptionmedicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\prescriptionmedicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patienttriage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patienttriage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\medicalinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\medicalinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\prescriptionmedicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\prescriptionmedicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patienttriage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patienttriage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\chatsystemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\chatsystemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\suppliercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\suppliercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\medicalinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\medicalinventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\patientersignal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\patientersignal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\coderedalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\coderedalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\appointmenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\appointmenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\appointmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\appointmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\loginform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientadmissionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientadmissionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\hospitalmanagementmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\hospitalmanagementmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\hospitalmanagementdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\hospitalmanagementdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\hospitalserverhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\hospitalserverhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\hospitalmanagementmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\hospitalmanagementmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\patientmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\patientmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\loginform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\loginform2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalmanagementysite\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B35DD75-FBF3-4499-9891-198544242E55}|HospitalManagementySite\\HospitalManagementySite.csproj|solutionrelative:hospitalmanagementysite\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\hospitalserverhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B55B128B-67B6-4E3F-BAF6-EBDE286EBF53}|HospitalServerHub\\HospitalServerHub.csproj|solutionrelative:hospitalserverhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "HospitalServerHub\\ChatHub.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\ChatHub.cs",
+              "RelativeToolTip": "HospitalServerHub\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:49:37.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VitalSignsForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\VitalSignsForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\VitalSignsForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\VitalSignsForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\VitalSignsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:41:00.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAnalyticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\DataAnalyticsForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\DataAnalyticsForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\DataAnalyticsForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\DataAnalyticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T22:48:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataAnalyticsForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\DataAnalyticsForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\DataAnalyticsForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\DataAnalyticsForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\DataAnalyticsForm.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T23:05:11.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientWithVital.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientWithVital.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientWithVital.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientWithVital.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientWithVital.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:14:38.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientERMonitorForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientERMonitorForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientERMonitorForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientERMonitorForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\PatientERMonitorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:09:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatSystemForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\ChatSystemForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\ChatSystemForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\ChatSystemForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\ChatSystemForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:29:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\AppointmentForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\AppointmentForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\AppointmentForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\AppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:33:02.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientAdmissionForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientAdmissionForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientAdmissionForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientAdmissionForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientAdmissionForm.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwFwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:37:53.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientInformation.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientInformation.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientInformation.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientInformation.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientInformation.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAmwJAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:21:11.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VitalSignsForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\VitalSignsForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\VitalSignsForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\VitalSignsForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\VitalSignsForm.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAIwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:24:12.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientAdmissionForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientAdmissionForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientAdmissionForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientAdmissionForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\PatientAdmissionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:24:50.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MainForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\MainForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MainForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\MainForm.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAYwDYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:29:33.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrescriptionMedicationForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PrescriptionMedicationForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PrescriptionMedicationForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PrescriptionMedicationForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PrescriptionMedicationForm.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAmwJYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:22:19.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientERMonitorForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientERMonitorForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientERMonitorForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientERMonitorForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientERMonitorForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T02:17:00.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientManagementForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientManagementForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientManagementForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientManagementForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientManagementForm.cs",
+              "ViewState": "AQIAAHkBAAAAAAAAAAAYwKcBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:03:31.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientTriage.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientTriage.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientTriage.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientTriage.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientTriage.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowGgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:43:27.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientManagementForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientManagementForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientManagementForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\PatientManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:22:17.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MainForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\MainForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MainForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:24:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicalInventoryForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MedicalInventoryForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\MedicalInventoryForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MedicalInventoryForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\MedicalInventoryForm.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:38:56.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\RegisterForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:42:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\User.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\User.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\User.cs",
+              "RelativeToolTip": "HospitalManagementySite\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:20:20.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrescriptionMedicationForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PrescriptionMedicationForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PrescriptionMedicationForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PrescriptionMedicationForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\PrescriptionMedicationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:03:07.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PatientTriage.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientTriage.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientTriage.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientTriage.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\PatientTriage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:39:29.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChatSystemForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\ChatSystemForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\ChatSystemForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\ChatSystemForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\ChatSystemForm.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAhwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:33:33.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MedicalInventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MedicalInventoryForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\MedicalInventoryForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MedicalInventoryForm.cs [Design]",
+              "RelativeToolTip": "HospitalManagementySite\\MedicalInventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:38:55.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HospitalServerHub\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HospitalServerHub\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T00:11:00.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatientERSignal.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\PatientERSignal.cs",
+              "RelativeDocumentMoniker": "HospitalServerHub\\PatientERSignal.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\PatientERSignal.cs",
+              "RelativeToolTip": "HospitalServerHub\\PatientERSignal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:32:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SupplierContact.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\SupplierContact.cs",
+              "RelativeDocumentMoniker": "HospitalServerHub\\SupplierContact.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\SupplierContact.cs",
+              "RelativeToolTip": "HospitalServerHub\\SupplierContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:29:01.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CodeRedAlert.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\CodeRedAlert.cs",
+              "RelativeDocumentMoniker": "HospitalServerHub\\CodeRedAlert.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\CodeRedAlert.cs",
+              "RelativeToolTip": "HospitalServerHub\\CodeRedAlert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:21:56.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalServerHub\\Program.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\Program.cs",
+              "RelativeToolTip": "HospitalServerHub\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:59:47.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppointmentHub.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\AppointmentHub.cs",
+              "RelativeDocumentMoniker": "HospitalServerHub\\AppointmentHub.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\AppointmentHub.cs",
+              "RelativeToolTip": "HospitalServerHub\\AppointmentHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:56:24.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppointmentForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\AppointmentForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\AppointmentForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\AppointmentForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\AppointmentForm.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:48:37.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppointmentForm.Designer.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\AppointmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\AppointmentForm.Designer.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\AppointmentForm.Designer.cs",
+              "RelativeToolTip": "HospitalManagementySite\\AppointmentForm.Designer.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAvwK8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:37:24.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginForm2.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginForm2.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\LoginForm2.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginForm2.cs",
+              "RelativeToolTip": "HospitalManagementySite\\LoginForm2.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAYwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:07:55.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\Program.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\Program.cs",
+              "RelativeToolTip": "HospitalManagementySite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:30:28.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginForm2.cs [Design]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginForm2.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\LoginForm2.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\Project\\hosptialManagement\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginForm2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Project\\hosptialManagement\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:06:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\App.config",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\App.config",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\App.config",
+              "RelativeToolTip": "HospitalManagementySite\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-18T14:01:31.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HospitalManagementModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\HospitalManagementModel.edmx",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\HospitalManagementModel.edmx",
+              "ToolTip": "C:\\tmp\\DEV420\\Project\\hosptialManagement\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\HospitalManagementModel.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\Project\\hosptialManagement\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\HospitalManagementModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-16T15:33:20.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HospitalManagementDBDataSet.xsd",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\HospitalManagementDBDataSet.xsd",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\HospitalManagementDBDataSet.xsd",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\HospitalManagementDBDataSet.xsd",
+              "RelativeToolTip": "HospitalManagementySite\\HospitalManagementDBDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-14T22:11:17.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\RegisterForm.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\RegisterForm.cs",
+              "RelativeToolTip": "HospitalManagementySite\\RegisterForm.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAswMIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:47:16.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\LoginData.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginData.cs",
+              "RelativeToolTip": "HospitalManagementySite\\LoginData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:19:22.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PatientAdmissionForm.Designer.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientAdmissionForm.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientAdmissionForm.Designer.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientAdmissionForm.Designer.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientAdmissionForm.Designer.cs",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAvwA0BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:52:39.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HospitalServerHub.csproj",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub.csproj",
+              "RelativeDocumentMoniker": "HospitalServerHub\\HospitalServerHub.csproj",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub.csproj",
+              "RelativeToolTip": "HospitalServerHub\\HospitalServerHub.csproj",
+              "ViewState": "AQIAAAoAAACAMzMzMzMLwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T17:46:14.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HospitalManagementModel.tt",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\HospitalManagementModel.tt",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\HospitalManagementModel.tt",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\HospitalManagementModel.tt",
+              "RelativeToolTip": "HospitalManagementySite\\HospitalManagementModel.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-13T00:24:27.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PatientManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\PatientManagementForm.Designer.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\PatientManagementForm.Designer.cs",
+              "RelativeToolTip": "HospitalManagementySite\\PatientManagementForm.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAUwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:33:07.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\MainForm.Designer.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\MainForm.Designer.cs",
+              "RelativeToolTip": "HospitalManagementySite\\MainForm.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwDIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:59:09.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\Doctor.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagementySite\\Doctor.cs",
+              "ViewState": "AQIAABAAAADQzMzMzMw7wBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:58:59.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\packages.config",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\packages.config",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\packages.config",
+              "RelativeToolTip": "HospitalManagementySite\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-10T20:30:06.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginForm2.Designer.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginForm2.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\LoginForm2.Designer.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\LoginForm2.Designer.cs",
+              "RelativeToolTip": "HospitalManagementySite\\LoginForm2.Designer.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwD8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:16:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "HospitalManagementySite\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalManagementySite\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "HospitalManagementySite\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAUwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:02:33.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalServerHub\\appsettings.json",
+              "ToolTip": "C:\\tmp\\DEV420\\merged final project\\HospitalServerHub\\HospitalServerHub\\HospitalServerHub\\appsettings.json",
+              "RelativeToolTip": "HospitalServerHub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T20:29:41.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

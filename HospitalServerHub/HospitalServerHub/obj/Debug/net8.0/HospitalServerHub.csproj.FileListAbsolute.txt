@@ -1,0 +1,137 @@
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.json
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.exe
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.deps.json
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.runtimeconfig.json
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.pdb
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.AssemblyReference.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfoInputs.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfo.cs
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.CoreCompileInputs.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.HospitalServerHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.build.HospitalServerHub.props
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HospitalServerHub.props
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HospitalServerHub.props
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\scopedcss\bundle\HospitalServerHub.styles.css
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\Hospital.D5EE7B19.Up2Date
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\refint\HospitalServerHub.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.pdb
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.genruntimeconfig.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\ref\HospitalServerHub.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.Development.json
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.json
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.exe
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.deps.json
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.runtimeconfig.json
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.pdb
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.AssemblyReference.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfoInputs.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfo.cs
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.CoreCompileInputs.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cs
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.build.json
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.development.json
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.HospitalServerHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.build.HospitalServerHub.props
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HospitalServerHub.props
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HospitalServerHub.props
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.pack.json
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\scopedcss\bundle\HospitalServerHub.styles.css
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\Hospital.D5EE7B19.Up2Date
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\refint\HospitalServerHub.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.pdb
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.genruntimeconfig.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\ref\HospitalServerHub.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.Development.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.exe
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.deps.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.runtimeconfig.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.pdb
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.AssemblyReference.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfoInputs.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfo.cs
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.CoreCompileInputs.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cs
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.sourcelink.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.build.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.development.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.HospitalServerHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.build.HospitalServerHub.props
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HospitalServerHub.props
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HospitalServerHub.props
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.pack.json
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\scopedcss\bundle\HospitalServerHub.styles.css
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\Hospital.D5EE7B19.Up2Date
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\refint\HospitalServerHub.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.pdb
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.genruntimeconfig.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\ref\HospitalServerHub.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.Development.json
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\appsettings.json
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.exe
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.deps.json
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.runtimeconfig.json
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\HospitalServerHub.pdb
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.AssemblyReference.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfoInputs.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.AssemblyInfo.cs
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.csproj.CoreCompileInputs.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cs
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.build.json
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.development.json
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.HospitalServerHub.Microsoft.AspNetCore.StaticWebAssets.props
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.build.HospitalServerHub.props
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HospitalServerHub.props
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HospitalServerHub.props
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\staticwebassets.pack.json
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\scopedcss\bundle\HospitalServerHub.styles.css
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\Hospital.D5EE7B19.Up2Date
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\refint\HospitalServerHub.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.pdb
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\HospitalServerHub.genruntimeconfig.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalServerHub\obj\Debug\net8.0\ref\HospitalServerHub.dll

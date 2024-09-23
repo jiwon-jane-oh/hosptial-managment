@@ -1,0 +1,542 @@
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\mongocrypt.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe.config
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.pdb
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\SharpCompress.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\ZstdSharp.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.pdb
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.AssemblyReference.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.Properties.Resources.resources
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.GenerateResource.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.CoreCompileInputs.cache
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\Hospital.2D3D08F7.Up2Date
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.exe
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.pdb
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.RegisterForm.resources
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MainForm.resources
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.LoginForm2.resources
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientManagementForm.resources
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.dll
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.xml
+C:\Users\jiwon.oh\Desktop\DEV420\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.AppointmentForm.resources
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\mongocrypt.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe.config
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.pdb
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\SharpCompress.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\ZstdSharp.dll
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.pdb
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.xml
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.AssemblyReference.cache
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.AppointmentForm.resources
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.LoginForm2.resources
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MainForm.resources
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientManagementForm.resources
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.Properties.Resources.resources
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.RegisterForm.resources
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.GenerateResource.cache
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.CoreCompileInputs.cache
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\Hospital.2D3D08F7.Up2Date
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.exe
+C:\tmp\FinalProjectReference\FinalProjectReference\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.pdb
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\mongocrypt.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe.config
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.pdb
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\SharpCompress.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\ZstdSharp.dll
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.pdb
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.xml
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.AssemblyReference.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.AppointmentForm.resources
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.LoginForm2.resources
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MainForm.resources
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MedicalInventoryForm.resources
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientManagementForm.resources
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.Properties.Resources.resources
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.RegisterForm.resources
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.GenerateResource.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.CoreCompileInputs.cache
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\Hospital.2D3D08F7.Up2Date
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.exe
+C:\tmp\DEV420\Project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.pdb
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\mongocrypt.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe.config
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\SharpCompress.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\ZstdSharp.dll
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.pdb
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.xml
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.AssemblyReference.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.AppointmentForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.ChatSystemForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.DataAnalyticsForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.LoginForm2.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MainForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MedicalInventoryForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientAdmissionForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientERMonitorForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientManagementForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientTriage.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PrescriptionMedicationForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.Properties.Resources.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.RegisterForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.VitalSignsForm.resources
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.GenerateResource.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.CoreCompileInputs.cache
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\Hospital.2D3D08F7.Up2Date
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.exe
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.pdb
+C:\tmp\DEV420\Project\hosptialManagement\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.pdb
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\mongocrypt.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe.config
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.exe
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\HospitalManagementySite.pdb
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\SharpCompress.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\ZstdSharp.dll
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.pdb
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.Core.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\AWSSDK.SecurityToken.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\BCrypt.Net-Next.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\DnsClient.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\EntityFramework.SqlServer.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Features.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Options.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Microsoft.Win32.Registry.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Bson.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\MongoDB.Driver.Core.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\Snappier.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Buffers.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.IO.Pipelines.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Memory.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Numerics.Vectors.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.AccessControl.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Security.Principal.Windows.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Encodings.Web.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Text.Json.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Channels.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\bin\Debug\System.ValueTuple.xml
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.AssemblyReference.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.AppointmentForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.ChatSystemForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.DataAnalyticsForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.LoginForm2.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MainForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.MedicalInventoryForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientAdmissionForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientERMonitorForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientManagementForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PatientTriage.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.PrescriptionMedicationForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.Properties.Resources.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.RegisterForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.VitalSignsForm.resources
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.GenerateResource.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.csproj.CoreCompileInputs.cache
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\Hospital.2D3D08F7.Up2Date
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.exe
+C:\tmp\DEV420\merged final project\HospitalServerHub\HospitalServerHub\HospitalManagementySite\obj\Debug\HospitalManagementySite.pdb
